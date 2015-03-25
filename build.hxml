@@ -1,0 +1,12 @@
+-main Main
+-cs cs
+-D no-root
+-D erase-generics
+-D real-position
+--each
+
+--no-output
+
+--next
+
+--macro Mock.MockBuild.apply()
